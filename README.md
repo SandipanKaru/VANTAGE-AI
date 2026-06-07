@@ -214,16 +214,13 @@ npm run dev
 ## 📸 Screenshots
 
 ### Login Page
-
-![Login Page](assets/login.png)
+![Login Page](https://raw.githubusercontent.com/SandipanKaru/VANTAGE-AI/main/vintage.ai-main/assets/login.png)
 
 ### Dashboard
-
-![Dashboard](assets/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/SandipanKaru/VANTAGE-AI/main/vintage.ai-main/assets/dashboard.png)
 
 ### Leaderboard
-
-![Leaderboard](assets/leaderboard.png)
+![Leaderboard](https://raw.githubusercontent.com/SandipanKaru/VANTAGE-AI/main/vintage.ai-main/assets/leaderboard.png)
 
 * Login Page
 * Dashboard
