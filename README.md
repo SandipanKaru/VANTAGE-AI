@@ -230,6 +230,9 @@ npm run dev
 * Leaderboard
 * Premium Features
 
+### Live Link
+https://vintage-ai-1jmk.onrender.com/
+
 ---
 
 ## 🌟 Future Scope
